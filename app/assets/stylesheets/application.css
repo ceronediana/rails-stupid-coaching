@@ -8,3 +8,16 @@
  *
  * Consider organizing styles into separate files for maintainability.
  */
+
+ .container {
+  margin-top: 50px;
+ }
+
+ .question, .answer {
+  border-left: 2px solid grey;
+  padding-left: 15px;
+ }
+
+ .answer {
+  background-color: #fffde1;
+ }
